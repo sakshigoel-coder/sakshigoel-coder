@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @sakshigoel-coder
-- 👀 I’m interested in App Development ..
-- 🌱 I’m currently learning .Android apps..
-- 💞️ I’m looking to collaborate on .chatbot app ..
-- 📫 How to reach me ...guys I learning chatbot by Brainshop Api some bugs 
-My contact 8168503946
+- 👀 I’m aspiring Data Analyst
+- 🌱 I’m currently exploring maching learning technologies and analysis large datasets
+- 💞️ I’m looking to collaborate on multiple project based on analysis
+- 📫 How to reach me ...guys like how to transfrom raw data to transformed,meaningful and  derive actionable insights looking for bussiness growth.
+My contact no. 8168503946
+Email_id: goelsakshi8168@gmail.com
 
 <!---
 sakshigoel-coder/sakshigoel-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
